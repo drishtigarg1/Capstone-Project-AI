@@ -1,0 +1,20 @@
+{
+  "precision": 0.099,
+  "recall": 0.536,
+  "f1": 0.167,
+  "average_precision": 0.111,
+  "fraud_rate": 0.0645,
+  "sample_size": 6000,
+  "test_size": 1500,
+  "threshold": 0.35,
+  "confusion_matrix": [
+    [
+      930,
+      473
+    ],
+    [
+      45,
+      52
+    ]
+  ]
+}
